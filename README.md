@@ -1,4 +1,3 @@
-## Hi, target="blank">Kevin</a></h1> Here 👋
 <h1 align="center">Hi 👋, <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Kevin</a>Here</h1>
 
