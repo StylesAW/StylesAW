@@ -17,8 +17,6 @@ Kevin</a></h1>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=trinib&repo=AdGuard-WireGuard-Unbound-DNScrypt&theme=merko">
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
 <p align="center">
-<a href="https://stackoverflow.com/users/14602915/trinib"><img src="https://github-readme-stackoverflow.vercel.app/?userID=14602915&theme=dark">
-<!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges -->
 
 ## Currently Building stuff with
 
