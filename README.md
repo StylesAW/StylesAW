@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is<a href="" target="blank">
 Kevin</a></h1>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
