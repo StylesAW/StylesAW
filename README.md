@@ -3,6 +3,31 @@ Kevin</a></h1>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee2.svg">
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/YCw47Dm.gif">
+<!--🖼️OCTOCAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px">
+<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=trinib&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=trinib&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinib&layout=compact&theme=merko">
+<!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=trinib&repo=AdGuard-WireGuard-Unbound-DNScrypt&theme=merko">
+<!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
+<p align="center">
+<a href="https://stackoverflow.com/users/14602915/trinib"><img src="https://github-readme-stackoverflow.vercel.app/?userID=14602915&theme=dark">
+<!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges -->
+
+
 ## Currently Building stuff with
 
 | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/aws.png" width=60 alt="aws icon"> | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/serverless.png" width=60 alt="serverless icon"> | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/typescript.png" width=60 alt="typescript icon"> | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/nodejs.png" width=60 alt="nodejs icon"> | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/hasura.png" width=60 alt="hasura icon"> | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/azure.png" width=60 alt="azure icon"> | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/gcp.png" width=60 alt="gcp icon"> |
