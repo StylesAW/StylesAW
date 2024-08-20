@@ -3,6 +3,13 @@ Kevin</a></h1>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
+## Currently Building stuff with
+
+| <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/aws.png" width=60 alt="aws icon"> | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/serverless.png" width=60 alt="serverless icon"> | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/typescript.png" width=60 alt="typescript icon"> | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/nodejs.png" width=60 alt="nodejs icon"> | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/hasura.png" width=60 alt="hasura icon"> | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/azure.png" width=60 alt="azure icon"> | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/gcp.png" width=60 alt="gcp icon"> |
+| :--------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
+
+
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
