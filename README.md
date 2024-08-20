@@ -9,13 +9,11 @@ Kevin</a></h1>
 <img src="https://i.imgur.com/YCw47Dm.gif">
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=trinib&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=trinib&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-stats.vercel.app/api?username=stylesaw&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=stylesaw&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinib&layout=compact&theme=merko">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stylesaw&layout=compact&theme=merko">
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=trinib&repo=AdGuard-WireGuard-Unbound-DNScrypt&theme=merko">
-<!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
 <p align="center">
 
 ## Currently Building stuff with
@@ -102,12 +100,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/StylesAW">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=StylesAW&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StylesAW&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 <!--
 **StylesAW/StylesAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
