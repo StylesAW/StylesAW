@@ -3,46 +3,12 @@ Kevin</a></h1>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-
-
-<p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
-<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=stylesaw&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=stylesaw&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
-<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stylesaw&layout=compact&theme=merko">
-<!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-
 ## Currently Building stuff with
 
 | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/aws.png" width=60 alt="aws icon"> | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/serverless.png" width=60 alt="serverless icon"> | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/typescript.png" width=60 alt="typescript icon"> | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/nodejs.png" width=60 alt="nodejs icon"> | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/hasura.png" width=60 alt="hasura icon"> | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/azure.png" width=60 alt="azure icon"> | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/gcp.png" width=60 alt="gcp icon"> |
 | :--------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
 
 
-
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/jundi-husni/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/zeeid">
-		<img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/zeeidev/">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/zeeidev">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/c/ZeeiDeveloper">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://play.google.com/store/apps/dev?id=5506644742288227696&hl=in&gl=US">
-					<img src="https://cdn.iconscout.com/icon/free/png-256/playstore-2002562-1687192.png" width="40" height="40"></a>
-      </div>
-
-</p>
 
 <p align="center">
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
@@ -98,10 +64,41 @@ Side Projects - App <img width=200/> | [![MahoMangaDownloader Badge](https://img
 Side Projects - Web      | [![Side Project Badge](https://img.shields.io/badge/-project.zmcx16.moe-00fa9a?style=flat&logoColor=white)](https://project.zmcx16.moe/) [![Axis Cult Badge](https://img.shields.io/badge/-Axis%20Cult-00eeff?style=flat&logoColor=white)](https://axiscult.zmcx16.moe/) [![Norn Minehunter Badge](https://img.shields.io/badge/-Norn%20Minehunter-gold?style=flat&logoColor=white)](https://norn-minehunter.zmcx16.moe/) [![TW Stock Lottery Secretary Badge](https://img.shields.io/badge/-TW%20Stock%20Lottery%20Secretary-3b5998?style=flat&logoColor=white)](https://www.facebook.com/%E8%82%A1%E7%A5%A8%E6%8A%BD%E7%B1%A4%E5%B0%8F%E7%A7%98%E6%9B%B8-115560563215006/) [![Protobuf Deserializer Badge](https://img.shields.io/badge/-Protobuf%20Deserializer-red?style=flat&logoColor=white)](https://protobuf-deserializer.zmcx16.moe/)
 Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx16-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/zmcx16/) [![Gmail Badge](https://img.shields.io/badge/-zmcx16-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:zmcx16@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-zmcx16-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shunningyou/)
 
-### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<img src="https://i.imgur.com/YCw47Dm.gif">
+<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=stylesaw&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=stylesaw&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stylesaw&layout=compact&theme=merko">
+<!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/jundi-husni/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/zeeid">
+		<img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/zeeidev/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/zeeidev">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/c/ZeeiDeveloper">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://play.google.com/store/apps/dev?id=5506644742288227696&hl=in&gl=US">
+					<img src="https://cdn.iconscout.com/icon/free/png-256/playstore-2002562-1687192.png" width="40" height="40"></a>
+      </div>
+
+</p>
 <!--
 **StylesAW/StylesAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
