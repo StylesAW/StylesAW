@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, This is<a href="" target="blank">
 Kevin</a></h1>
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/StylesAW">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=StylesAW&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StylesAW&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-<!--
 **StylesAW/StylesAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
