@@ -6,9 +6,6 @@ Kevin</a></h1>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee2.svg">
-<!--📏LINE-->
-<p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
 <!--🖼️OCTOCAT-->
 <p align="center">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px">
