@@ -33,36 +33,25 @@ Kevin</a></h1>
   <img alt="Static Badge" src="https://img.shields.io/badge/AWS-%23d6822a%20?style=for-the-badge&logo=amazonwebservices&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/GCP-%23008f4c?style=for-the-badge&logo=googlecloud&logoColor=white">
 
-
-
-  
 - <h4> Languages </h4>
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-orange?style=for-the-badge&logo=python&logoColor=%233776AB&logoSize=200&labelColor=%23414656&color=%23414656">
   <img alt="Static Badge" src="https://img.shields.io/badge/SQL-none?style=for-the-badge&logo=amazondocumentdb&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/BASH-%23002374?style=for-the-badge&logo=gnubash&logoColor=white">
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
 
-
-  
 - <h4> Libraries & Frameworks </h4>
   <img alt="Static Badge" src="https://img.shields.io/badge/Numpy-%238090bc?style=for-the-badge&logo=numpy&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/SQLalchemy-%23db3d20?style=for-the-badge&logo=sqlalchemy&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-%231877da?style=for-the-badge&logo=pandas&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Matplotlib-%233e9f9a?style=for-the-badge&logo=materialformkdocs&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Pytest-%23001f6d?style=for-the-badge&logo=pytest&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Apache%20Hadoop-%23940039?style=for-the-badge&logo=apachehadoop&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-%231877da?style=for-the-badge&logo=pandas&logoColor=white">
 
-
-
-  
 - <h4> Tools </h4>
-  <img alt="Static Badge" src="https://img.shields.io/badge/jupyter%20notebook-%23d6822a%20?style=for-the-badge&logo=jupyter&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Docker-%231877da?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/databricks-%23604200?style=for-the-badge&logo=databricks&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/tableau-%23877555?style=for-the-badge&logo=tableau&logoColor=white">
-
-
-  
+  <img alt="Static Badge" src="https://img.shields.io/badge/jupyter%20notebook-%23d6822a%20?style=for-the-badge&logo=jupyter&logoColor=white">
   </br></br>
   
 <div align="right">
