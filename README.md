@@ -19,7 +19,7 @@ Kevin</a></h1>
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 <h2> / About me /</h2>
   
-- ⭐ currently working on **Data Engineering**
+- ⭐ currently working on **Data Engineering & AI/ML**
 - 💀 mostly working on **Becoming the best version of myself**
 - 👾 a **Dedicated individual** working his way around things
   
