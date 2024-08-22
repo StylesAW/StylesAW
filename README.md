@@ -26,14 +26,17 @@ Kevin</a></h1>
 <h2> / Current skills / </h2>
 
 - <h4> Technologies </h4>
-  <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
-  <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
-  <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Airflow-%23008a62?style=for-the-badge&logo=apacheairflow&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Astronomer-%23414656?style=for-the-badge&logo=astro&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Snowflake-%231877da?style=for-the-badge&logo=snowflake">
   
 - <h4> Languages </h4>
-  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-orange?style=for-the-badge&logo=python&logoColor=%233776AB&logoSize=200&labelColor=%23414656&color=%23414656">
   <img alt="Static Badge" src="https://img.shields.io/badge/SQL-none?style=for-the-badge&logo=amazondocumentdb&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/BASH-%23002374?style=for-the-badge&logo=gnubash&logoColor=white">
+  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
+
+
   
 - <h4> Libraries & Frameworks </h4>
   <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
