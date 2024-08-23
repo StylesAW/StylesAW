@@ -11,7 +11,7 @@ Kevin</a></h1>
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font='Roboto'%2C+sans-serif&weight=700&size=45&pause=1000&color=00EB07&background=FFFFFF00&center=true&random=true&width=650&height=120&lines=Data+Engineering;Artificial+Intelligence;Always+Learning+New+Tech" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font='Roboto'%2C+sans-serif&weight=700&size=45&pause=1000&color=00EB07&background=FFFFFF00&center=true&random=true&width=650&height=120&lines=Artificial+Intelligence;Data+Engineering;Always+Learning+New+Tech" alt="Typing SVG" /></a>
 </p>
 <div>
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
