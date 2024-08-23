@@ -13,17 +13,17 @@ Kevin</a></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font='Roboto'%2C+sans-serif&weight=700&size=45&pause=1000&color=00EB07&background=FFFFFF00&center=true&random=true&width=650&height=120&lines=Data+Engineering;Artificial+Intelligence;Always+Learning+New+Tech" alt="Typing SVG" /></a>
 </p>
-
-
 <div>
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
-<h2> / About me /</h2>
-  
+	
+<img src="https://i.imgur.com/dwaLrZG.png" alt="about me" width="150" height="55"/>
+
 - ⭐ currently working on **Data Engineering & AI/ML**
 - 💀 mostly working on **Becoming the best version of myself**
 - 👾 a **Dedicated individual** working his way around things
-  
-<h2> / Current skills / </h2>
+
+
+<img src="https://i.imgur.com/Zewo7aY.png" alt="current skills" width="200" height="55"/>
 
 - <h4> Technologies </h4>
   <img alt="Static Badge" src="https://img.shields.io/badge/Airflow-%23008a62?style=for-the-badge&logo=apacheairflow&logoColor=white">
