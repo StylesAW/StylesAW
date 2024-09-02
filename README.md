@@ -62,22 +62,12 @@ Kevin</a></h1>
 
 
 
-<p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
-<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=stylesaw&show_icons=true&theme=merko">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=stylesaw&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stylesaw&layout=compact&theme=merko">
-<!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-
 
 <div align="center">
 <a href="https://github.com/StylesAW?tab=repositories" target="_blank"><img src="https://images.cooltext.com/5707170.png" alt="lastest projects" style="width: 300px; height: auto;"></a>
   </div>
+
+***
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -93,6 +83,21 @@ Kevin</a></h1>
       </div>
 
 </p>
+
+***
+
+<p align="center">
+<img src="https://i.imgur.com/YCw47Dm.gif">
+<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=stylesaw&show_icons=true&theme=merko">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=stylesaw&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stylesaw&layout=compact&theme=merko">
+<!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+
 <!--
 **StylesAW/StylesAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
