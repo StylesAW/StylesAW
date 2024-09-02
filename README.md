@@ -20,7 +20,6 @@ Kevin</a></h1>
 - 💀 mostly working on **Becoming the best version of myself**
 - 👾 a **Dedicated individual** working his way around things
 
-
 <img src="https://i.imgur.com/Zewo7aY.png" alt="current skills" width="200" height="55"/>
 
 - <h4> Technologies </h4>
@@ -51,7 +50,6 @@ Kevin</a></h1>
   <img alt="Static Badge" src="https://img.shields.io/badge/tableau-%23877555?style=for-the-badge&logo=tableau&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/jupyter%20notebook-%23d6822a%20?style=for-the-badge&logo=jupyter&logoColor=white">
   </br></br>
-  
 <div align="right">
 <a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
   </div>
