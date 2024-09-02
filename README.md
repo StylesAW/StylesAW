@@ -33,9 +33,9 @@ Kevin</a></h1>
 - <h4> Languages </h4>
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-orange?style=for-the-badge&logo=python&logoColor=%233776AB&logoSize=200&labelColor=%23414656&color=%23414656">
   <img alt="Static Badge" src="https://img.shields.io/badge/SQL-none?style=for-the-badge&logo=amazondocumentdb&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/BASH-%23002374?style=for-the-badge&logo=gnubash&logoColor=white">
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
-
+  <img alt="Static Badge" src="https://img.shields.io/badge/BASH-%23002374?style=for-the-badge&logo=gnubash&logoColor=white">
+ 
 - <h4> Libraries & Frameworks </h4>
   <img alt="Static Badge" src="https://img.shields.io/badge/Numpy-%238090bc?style=for-the-badge&logo=numpy&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/SQLalchemy-%23db3d20?style=for-the-badge&logo=sqlalchemy&logoColor=white">
