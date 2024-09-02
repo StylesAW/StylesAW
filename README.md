@@ -58,6 +58,8 @@ Kevin</a></h1>
 <a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
   </div>
   </div>
+  
+
 
 
 <p align="center">
@@ -71,6 +73,11 @@ Kevin</a></h1>
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+
+
+<div align="center">
+<a href="https://github.com/StylesAW?tab=repositories" target="_blank"><img src="https://images.cooltext.com/5707170.png" alt="lastest projects" style="width: 300px; height: auto;"></a>
+  </div>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
