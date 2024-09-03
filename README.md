@@ -92,6 +92,12 @@ Kevin</a></h1>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stylesaw&layout=compact&theme=merko">
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
+
+<p align="center">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=StylesAW&label=Profile%20Views&color=1&pretty=false" />
+</a>
+
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 
 <!--
