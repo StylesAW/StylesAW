@@ -12,8 +12,8 @@ Kevin</a></h1>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font='Roboto'%2C+sans-serif&weight=700&size=45&pause=1000&color=00EB07&background=FFFFFF00&center=true&random=true&width=650&height=120&lines=Artificial+Intelligence;Data+Engineering;Always+Learning+New+Tech" alt="Typing SVG" /></a>
 </p>
 <div>
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
-	
+<!--<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>-->
+<img align="right" width="400" height="700" alt="Shimarin" src="https://i.imgur.com/aJIDgiY.png"/>
 <img src="https://i.imgur.com/dwaLrZG.png" alt="about me" width="150" height="55"/>
 
 - ⭐ currently working on **Data Engineering & AI/ML**
@@ -51,7 +51,8 @@ Kevin</a></h1>
   <img alt="Static Badge" src="https://img.shields.io/badge/jupyter%20notebook-%23d6822a%20?style=for-the-badge&logo=jupyter&logoColor=white">
   </br></br>
 <div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
+<!--<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>-->
+
   </div>
   </div>
   
