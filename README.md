@@ -57,7 +57,7 @@ Kevin</a></h1>
     </td>
 
     <td valign="top" width="45%" align="right">
-      <img width="500" height="650" alt="Shimarin" src="https://i.imgur.com/aJIDgiY.png"/>
+      <img width="450" height="670" alt="Shimarin" src="https://i.imgur.com/aJIDgiY.png"/>
 	    <div align="right">
         <a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
       </div>
