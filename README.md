@@ -12,7 +12,6 @@ Kevin</a></h1>
   	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font='Roboto'%2C+sans-serif&weight=700&size=45&pause=1000&color=00EB07&background=FFFFFF00&center=true&random=true&width=650&height=120&lines=Artificial+Intelligence;Data+Engineering;Always+Learning+New+Tech" alt="Typing SVG" /></a>
 </p>
 
-  
 <table width="100%" border="0">
   <tr>
     <!-- Columna izquierda -->
@@ -22,6 +21,8 @@ Kevin</a></h1>
 - ⭐ currently working on **Data Engineering & AI/ML**
 - 💀 mostly working on **Becoming the best version of myself**
 - 👾 a **Dedicated individual** working his way around things
+
+<br>
 
 <img src="https://i.imgur.com/Zewo7aY.png" alt="current skills" width="200" height="55"/>
 
@@ -66,7 +67,7 @@ Kevin</a></h1>
 </table>
 
 
-
+<br>
 
 
 <div align="center">
