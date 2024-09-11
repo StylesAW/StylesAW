@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This is<a href="" target="blank">
+<h1 align="center">Hi 👋, This is <a href="" target="blank">
 Kevin</a></h1>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
@@ -18,7 +18,6 @@ Kevin</a></h1>
     <!-- Columna izquierda -->
     <td valign="top" width="50%">
 <img src="https://i.imgur.com/dwaLrZG.png" alt="about me" width="150" height="55"/>
-
 
 - ⭐ currently working on **Data Engineering & AI/ML**
 - 💀 mostly working on **Becoming the best version of myself**
