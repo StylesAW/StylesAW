@@ -14,7 +14,6 @@ Kevin</a></h1>
 
 <table width="100%" border="0">
   <tr>
-    <!-- Columna izquierda -->
     <td valign="top" width="55%">
 <img src="https://i.imgur.com/dwaLrZG.png" alt="about me" width="150" height="55"/>
 
