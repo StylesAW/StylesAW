@@ -9,12 +9,16 @@ Kevin</a></h1>
 | :--------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font='Roboto'%2C+sans-serif&weight=700&size=45&pause=1000&color=00EB07&background=FFFFFF00&center=true&random=true&width=650&height=120&lines=Artificial+Intelligence;Data+Engineering;Always+Learning+New+Tech" alt="Typing SVG" /></a>
+  	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font='Roboto'%2C+sans-serif&weight=700&size=45&pause=1000&color=00EB07&background=FFFFFF00&center=true&random=true&width=650&height=120&lines=Artificial+Intelligence;Data+Engineering;Always+Learning+New+Tech" alt="Typing SVG" /></a>
 </p>
-<div>
-<!--<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>-->
-<img align="right" width="400" height="700" alt="Shimarin" src="https://i.imgur.com/aJIDgiY.png"/>
+
+  
+<table width="100%" border="0">
+  <tr>
+    <!-- Columna izquierda -->
+    <td valign="top" width="50%">
 <img src="https://i.imgur.com/dwaLrZG.png" alt="about me" width="150" height="55"/>
+
 
 - ⭐ currently working on **Data Engineering & AI/ML**
 - 💀 mostly working on **Becoming the best version of myself**
@@ -22,40 +26,46 @@ Kevin</a></h1>
 
 <img src="https://i.imgur.com/Zewo7aY.png" alt="current skills" width="200" height="55"/>
 
-- <h4> Technologies </h4>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Airflow-%23008a62?style=for-the-badge&logo=apacheairflow&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Astronomer-%23414656?style=for-the-badge&logo=astro&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Snowflake-%231877da?style=for-the-badge&logo=snowflake&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Apache%20Spark-%20%23db3d20?style=for-the-badge&logo=apachespark&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/AWS-%23d6822a%20?style=for-the-badge&logo=amazonwebservices&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/GCP-%23008f4c?style=for-the-badge&logo=googlecloud&logoColor=white">
+- **Technologies**
+  	<br><img alt="Static Badge" src="https://img.shields.io/badge/Airflow-%23008a62?style=for-the-badge&logo=apacheairflow&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Astronomer-%23414656?style=for-the-badge&logo=astro&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Snowflake-%231877da?style=for-the-badge&logo=snowflake&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Apache%20Spark-%20%23db3d20?style=for-the-badge&logo=apachespark&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/AWS-%23d6822a%20?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/GCP-%23008f4c?style=for-the-badge&logo=googlecloud&logoColor=white">
 
-- <h4> Languages </h4>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Python-orange?style=for-the-badge&logo=python&logoColor=%233776AB&logoSize=200&labelColor=%23414656&color=%23414656">
-  <img alt="Static Badge" src="https://img.shields.io/badge/SQL-none?style=for-the-badge&logo=amazondocumentdb&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/BASH-%23002374?style=for-the-badge&logo=gnubash&logoColor=white">
-  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
- 
-- <h4> Libraries & Frameworks </h4>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Numpy-%238090bc?style=for-the-badge&logo=numpy&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/SQLalchemy-%23db3d20?style=for-the-badge&logo=sqlalchemy&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Matplotlib-%233e9f9a?style=for-the-badge&logo=materialformkdocs&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Pytest-%23001f6d?style=for-the-badge&logo=pytest&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Apache%20Hadoop-%23940039?style=for-the-badge&logo=apachehadoop&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-%231877da?style=for-the-badge&logo=pandas&logoColor=white">
+- **Languages**
+  	<br><img alt="Static Badge" src="https://img.shields.io/badge/Python-orange?style=for-the-badge&logo=python&logoColor=%233776AB&logoSize=200&labelColor=%23414656&color=%23414656">
+        <img alt="Static Badge" src="https://img.shields.io/badge/SQL-none?style=for-the-badge&logo=amazondocumentdb&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/BASH-%23002374?style=for-the-badge&logo=gnubash&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js"/>
 
-- <h4> Tools </h4>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Docker-%231877da?style=for-the-badge&logo=docker&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/databricks-%23604200?style=for-the-badge&logo=databricks&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/tableau-%23877555?style=for-the-badge&logo=tableau&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/jupyter%20notebook-%23d6822a%20?style=for-the-badge&logo=jupyter&logoColor=white">
-  </br></br>
-<div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
+- **Libraries & Frameworks**
+  	<br><img alt="Static Badge" src="https://img.shields.io/badge/Numpy-%238090bc?style=for-the-badge&logo=numpy&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/SQLalchemy-%23db3d20?style=for-the-badge&logo=sqlalchemy&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Matplotlib-%233e9f9a?style=for-the-badge&logo=materialformkdocs&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Pytest-%23001f6d?style=for-the-badge&logo=pytest&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Apache%20Hadoop-%23940039?style=for-the-badge&logo=apachehadoop&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-%231877da?style=for-the-badge&logo=pandas&logoColor=white">
 
-  </div>
-  </div>
+- **Tools**
+	<br><img alt="Static Badge" src="https://img.shields.io/badge/Docker-%231877da?style=for-the-badge&logo=docker&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/databricks-%23604200?style=for-the-badge&logo=databricks&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/tableau-%23877555?style=for-the-badge&logo=tableau&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/jupyter%20notebook-%23d6822a%20?style=for-the-badge&logo=jupyter&logoColor=white">
+
   
+    </td>
+
+    <td valign="top" width="50%" align="right">
+      <img width="500" height="700" alt="Shimarin" src="https://i.imgur.com/aJIDgiY.png"/>
+	    <div align="right">
+        <a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 
 
