@@ -17,7 +17,7 @@ Kevin</a></h1>
     <td valign="top" width="55%">
 <img src="https://i.imgur.com/dwaLrZG.png" alt="about me" width="150" height="55"/>
 
-- ⭐ currently working on **Data Engineering & AI/ML**
+- ⭐ currently working on **Data Engineering & BI**
 - 💀 mostly working on **Becoming the best version of myself**
 - 👾 a **Dedicated individual** working his way around things
 
