@@ -83,7 +83,7 @@ Kevin</a></h1>
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/kevinramirezin/">
 			<img src="https://static.vecteezy.com/system/resources/previews/023/986/970/original/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" width="40" height="40"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/StylesAW">
-		<img src="https://cdn.icon-icons.com/icons2/3685/PNG/512/github_logo_icon_229278.png" width="40" height="40"></a>
+		<img src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000" width="40" height="40"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/kevin.ramirezst/">
 			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="40" height="40"></a>
       </div>
@@ -105,7 +105,7 @@ Kevin</a></h1>
 
 <p align="center">
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=StylesAW&label=Profile%20Views&color=1&pretty=false" />
+  
 </a>
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
